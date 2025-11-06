@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="120px" height="90px" viewBox="0 0 120 90" style="enable-background:new 0 0 120 90;" xml:space="preserve">
+<style type="text/css">
+    .st0{fill:#306998;} /* Blue for the top part */
+    .st1{fill:#FFD43B;} /* Yellow for the bottom part (not used here) */
+    .st2{fill:#FFFFFF;} /* White for the eyes */
+</style>
+<g>
+    <path class="st0" d="M60.5,0c-16.4,0-30,13.6-30,30v15c0,16.4,13.6,30,30,30s30-13.6,30-30V30C90.5,13.6,77,0,60.5,0z"/>
+    <circle class="st2" cx="50.5" cy="25" r="5"/> <!-- White eye -->
+</g>
+</svg>
